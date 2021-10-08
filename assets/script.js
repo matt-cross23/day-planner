@@ -5,5 +5,7 @@ console.log(time)
     $(".hour").each(function getTime(index) {
     index + ": " + $( this ).text()
       });
-
+$("SaveBtn").click(function(){ 
+  localstorage.content = $('#textarea').html
+   saveArr = localstorage.getItem('#textarea') 
     
