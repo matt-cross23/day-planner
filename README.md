@@ -1,2 +1,2 @@
 # day-planner
-
+This project helped me get comfortable with using JQuery and applying 3rd party APIS to make a interactive and clean day-planner. Using CSS bootstrap allowed me to understand how accessible the API is to make your website flourish and understand the documentation. The work needed to complete this piece gave me a good foundation on how to use JQuery and apply its documentation to better the funcionality of an application.  
